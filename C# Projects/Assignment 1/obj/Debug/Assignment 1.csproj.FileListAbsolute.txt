@@ -1,0 +1,7 @@
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Assignment 1\bin\Debug\Assignment 1.exe.config
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Assignment 1\bin\Debug\Assignment 1.exe
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Assignment 1\bin\Debug\Assignment 1.pdb
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Assignment 1\obj\Debug\Assignment 1.csproj.AssemblyReference.cache
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Assignment 1\obj\Debug\Assignment 1.exe
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Assignment 1\obj\Debug\Assignment 1.pdb

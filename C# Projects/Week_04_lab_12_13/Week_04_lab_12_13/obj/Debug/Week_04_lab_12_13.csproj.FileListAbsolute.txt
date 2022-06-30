@@ -1,0 +1,10 @@
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_04_lab_12_13\Week_04_lab_12_13\bin\Debug\Week_04_lab_12_13.exe.config
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_04_lab_12_13\Week_04_lab_12_13\bin\Debug\Week_04_lab_12_13.exe
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_04_lab_12_13\Week_04_lab_12_13\bin\Debug\Week_04_lab_12_13.pdb
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_04_lab_12_13\Week_04_lab_12_13\obj\Debug\Week_04_lab_12_13.csproj.AssemblyReference.cache
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_04_lab_12_13\Week_04_lab_12_13\obj\Debug\Week_04_lab_12_13.csproj.CoreCompileInputs.cache
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_04_lab_12_13\Week_04_lab_12_13\obj\Debug\Week_04_lab_12_13.exe
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_04_lab_12_13\Week_04_lab_12_13\obj\Debug\Week_04_lab_12_13.pdb
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_04_lab_12_13\Week_04_lab_12_13\bin\Debug\Newtonsoft.Json.dll
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_04_lab_12_13\Week_04_lab_12_13\bin\Debug\Newtonsoft.Json.xml
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_04_lab_12_13\Week_04_lab_12_13\obj\Debug\Week_04_lab_12_13.csproj.CopyComplete

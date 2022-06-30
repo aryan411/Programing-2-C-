@@ -1,0 +1,16 @@
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_12_lab_20_Gui_Premier\Week_12_lab_20_Gui_Premier\bin\Debug\netcoreapp3.1\Week_12_lab_20_Gui_Premier.exe
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_12_lab_20_Gui_Premier\Week_12_lab_20_Gui_Premier\bin\Debug\netcoreapp3.1\Week_12_lab_20_Gui_Premier.deps.json
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_12_lab_20_Gui_Premier\Week_12_lab_20_Gui_Premier\bin\Debug\netcoreapp3.1\Week_12_lab_20_Gui_Premier.runtimeconfig.json
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_12_lab_20_Gui_Premier\Week_12_lab_20_Gui_Premier\bin\Debug\netcoreapp3.1\Week_12_lab_20_Gui_Premier.runtimeconfig.dev.json
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_12_lab_20_Gui_Premier\Week_12_lab_20_Gui_Premier\bin\Debug\netcoreapp3.1\Week_12_lab_20_Gui_Premier.dll
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_12_lab_20_Gui_Premier\Week_12_lab_20_Gui_Premier\bin\Debug\netcoreapp3.1\Week_12_lab_20_Gui_Premier.pdb
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_12_lab_20_Gui_Premier\Week_12_lab_20_Gui_Premier\obj\Debug\netcoreapp3.1\Week_12_lab_20_Gui_Premier.csproj.AssemblyReference.cache
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_12_lab_20_Gui_Premier\Week_12_lab_20_Gui_Premier\obj\Debug\netcoreapp3.1\Week_12_lab_20_Gui_Premier.Form1.resources
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_12_lab_20_Gui_Premier\Week_12_lab_20_Gui_Premier\obj\Debug\netcoreapp3.1\Week_12_lab_20_Gui_Premier.Properties.Resources.resources
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_12_lab_20_Gui_Premier\Week_12_lab_20_Gui_Premier\obj\Debug\netcoreapp3.1\Week_12_lab_20_Gui_Premier.csproj.GenerateResource.cache
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_12_lab_20_Gui_Premier\Week_12_lab_20_Gui_Premier\obj\Debug\netcoreapp3.1\Week_12_lab_20_Gui_Premier.AssemblyInfoInputs.cache
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_12_lab_20_Gui_Premier\Week_12_lab_20_Gui_Premier\obj\Debug\netcoreapp3.1\Week_12_lab_20_Gui_Premier.AssemblyInfo.cs
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_12_lab_20_Gui_Premier\Week_12_lab_20_Gui_Premier\obj\Debug\netcoreapp3.1\Week_12_lab_20_Gui_Premier.csproj.CoreCompileInputs.cache
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_12_lab_20_Gui_Premier\Week_12_lab_20_Gui_Premier\obj\Debug\netcoreapp3.1\Week_12_lab_20_Gui_Premier.dll
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_12_lab_20_Gui_Premier\Week_12_lab_20_Gui_Premier\obj\Debug\netcoreapp3.1\Week_12_lab_20_Gui_Premier.pdb
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_12_lab_20_Gui_Premier\Week_12_lab_20_Gui_Premier\obj\Debug\netcoreapp3.1\Week_12_lab_20_Gui_Premier.genruntimeconfig.cache

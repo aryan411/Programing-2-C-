@@ -1,0 +1,7 @@
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\AryanPatel_MidExam\AryanPatel_MidExam\bin\Debug\AryanPatel_MidExam.exe.config
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\AryanPatel_MidExam\AryanPatel_MidExam\bin\Debug\AryanPatel_MidExam.exe
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\AryanPatel_MidExam\AryanPatel_MidExam\bin\Debug\AryanPatel_MidExam.pdb
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\AryanPatel_MidExam\AryanPatel_MidExam\obj\Debug\AryanPatel_MidExam.csproj.AssemblyReference.cache
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\AryanPatel_MidExam\AryanPatel_MidExam\obj\Debug\AryanPatel_MidExam.csproj.CoreCompileInputs.cache
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\AryanPatel_MidExam\AryanPatel_MidExam\obj\Debug\AryanPatel_MidExam.exe
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\AryanPatel_MidExam\AryanPatel_MidExam\obj\Debug\AryanPatel_MidExam.pdb

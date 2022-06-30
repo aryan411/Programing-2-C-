@@ -1,0 +1,7 @@
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_02_lab_05_06\Week_02_lab_05_06\obj\Debug\Week_02_lab_05_06.csproj.AssemblyReference.cache
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_02_lab_05_06\Week_02_lab_05_06\obj\Debug\Week_02_lab_05_06.csproj.CoreCompileInputs.cache
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_02_lab_05_06\Week_02_lab_05_06\bin\Debug\Week_02_lab_05_06.exe.config
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_02_lab_05_06\Week_02_lab_05_06\bin\Debug\Week_02_lab_05_06.exe
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_02_lab_05_06\Week_02_lab_05_06\bin\Debug\Week_02_lab_05_06.pdb
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_02_lab_05_06\Week_02_lab_05_06\obj\Debug\Week_02_lab_05_06.exe
+D:\Centennial college\sem 1\Programing 2 C# (012)\C# Projects\Week_02_lab_05_06\Week_02_lab_05_06\obj\Debug\Week_02_lab_05_06.pdb

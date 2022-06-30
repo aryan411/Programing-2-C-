@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Final_Dixit_Hihoriya\Final_Dixit_Hihoriya\obj\Debug\Final_Dixit_Hihoriya.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Final_Dixit_Hihoriya\Final_Dixit_Hihoriya\obj\Debug\Final_Dixit_Hihoriya.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Final_Dixit_Hihoriya\Final_Dixit_Hihoriya\obj\Debug\Final_Dixit_Hihoriya.Form1.resources
+C:\Users\Admin\source\repos\Final_Dixit_Hihoriya\Final_Dixit_Hihoriya\obj\Debug\Final_Dixit_Hihoriya.Properties.Resources.resources
+C:\Users\Admin\source\repos\Final_Dixit_Hihoriya\Final_Dixit_Hihoriya\obj\Debug\Final_Dixit_Hihoriya.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Final_Dixit_Hihoriya\Final_Dixit_Hihoriya\obj\Debug\Final_Dixit_Hihoriya.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Final_Dixit_Hihoriya\Final_Dixit_Hihoriya\bin\Debug\Final_Dixit_Hihoriya.exe.config
+C:\Users\Admin\source\repos\Final_Dixit_Hihoriya\Final_Dixit_Hihoriya\bin\Debug\Final_Dixit_Hihoriya.exe
+C:\Users\Admin\source\repos\Final_Dixit_Hihoriya\Final_Dixit_Hihoriya\bin\Debug\Final_Dixit_Hihoriya.pdb
+C:\Users\Admin\source\repos\Final_Dixit_Hihoriya\Final_Dixit_Hihoriya\obj\Debug\Final_Dixit_Hihoriya.exe
+C:\Users\Admin\source\repos\Final_Dixit_Hihoriya\Final_Dixit_Hihoriya\obj\Debug\Final_Dixit_Hihoriya.pdb
